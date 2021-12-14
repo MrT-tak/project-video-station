@@ -19,12 +19,15 @@
     </header>
     <script>
         const video = window.location.searchParams(video)
-        
+        const code = ("<video src=\""+ video + "\">")
+        document.getElementById("video-player").outerHTML = (code)
 
         
     </script>
     <div id="video">
+        <video id="video-player">
 
+        </video>
     </div>
     
 </body>
