@@ -77,7 +77,8 @@
     </header>
     <script>
         const videosrcurl =("mrt-tak.github.io/video-station.video/")
-        const video = window.location.searchParams(video)
+        const videoname = window.location.searchParams(video)
+        const video = (videoname + ".mp4")
         const code = ("<video src=\""+ videosrcurl + video + "/\">")
         document.getElementById("video-player").outerHTML = (code)
 
