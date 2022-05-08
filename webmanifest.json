@@ -1,0 +1,23 @@
+{
+  "name": "project-video-station",
+  "version": "0.0.1",
+  "description": "Making video watch and upload like YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "start \"\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrT-tak/project-video-station.git"
+  },
+  "keywords": [
+    "MrT",
+    "VideoViewer"
+  ],
+  "author": "MrT",
+  "license": "SEE LICENCE IN LICENCE.MD",
+  "bugs": {
+    "url": "https://github.com/MrT-tak/project-video-station/issues"
+  },
+  "homepage": "https://github.com/MrT-tak/project-video-station#readme"
+}

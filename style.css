@@ -1,0 +1,25 @@
+body {
+    background-color: coral;
+    color: azure;
+}
+nav {
+    background-color: coral;
+}
+
+.card {
+    margin: 5em;
+    padding: 5em;
+}
+
+.Warrning-card {
+    background-color: yellow;
+    color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.default-color {
+    background-color: coral;
+}
